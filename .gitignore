@@ -1,0 +1,19 @@
+target/
+*.log
+
+# IDE-specific files
+*.iml
+.idea/
+.classpath
+.project
+.settings/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Backup files
+*~
+*.bak
+*.backup
+
